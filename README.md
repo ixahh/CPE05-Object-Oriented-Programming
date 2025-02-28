@@ -1,1 +1,2 @@
-# CPE05-Object-Oriented-Programming
+# CPE05: Object-Oriented Programming
+CPE05 - Object-Oriented Programming introduces students to the principles of object-oriented programming (OOP) using Java. The course covers fundamental OOP concepts such as classes, objects, inheritance, polymorphism, encapsulation, and abstraction. Students engage in hands-on activities and projects that reinforce these concepts, including GUI development with Java Swing, file handling, exception handling, and multithreading. Through practical coding exercises and project-based learning, students develop problem-solving skills and gain experience in designing and implementing object-oriented applications.
